@@ -8,7 +8,7 @@ Sim, nada haver uma coisa com a outra, mas o importante é está sempre aprenden
 ## 💌 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F781D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandapassos/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-F781D8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diinhapassos/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diinhapassos/)
 [![E-mail](https://img.shields.io/badge/-Email-F781D8?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:manda-vip@hotmail.com)
 
 
